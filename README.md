@@ -31,7 +31,7 @@ The dataset is useful for:
 
 ## Repository Contents
 
-- `traffic_prediction_analysis.ipynb`: Jupyter notebook with data exploration and insights.
+- `Traffic Prediction.ipynb`: Jupyter notebook with data exploration and insights.
 - `README.md`: Overview of the project (you're reading it now!).
 
 Feel free to explore and contribute to this project! 🚗🌆
